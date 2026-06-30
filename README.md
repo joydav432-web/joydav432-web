@@ -1,264 +1,469 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ============================== -->
+<!--      JOYDEB KUMAR PROFILE      -->
+<!-- ============================== -->
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00D8FF;">Joydeb Kumar</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-💙 A Passionate Flutter Developer from Bangladesh 🇧🇩
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00C3FF,50:007BFF,75:5B2EFF,100:8A2BE2&text=Joydeb%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer&descAlignY=58"/>
 
-<p align="center">
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Mobile+App+Developer;Firebase+%7C+REST+API;Always+Learning+New+Things..." />
-
-</p>
-
----
+<br>
 
 <table>
+
 <tr>
 
 <td width="60%">
 
-# 👋 Hi, This is Joydeb Kumar
+# 👋 Hi, This is **Joydeb Kumar**
 
 ### 💙 Flutter Developer
 
-🚀 I build beautiful, scalable and responsive mobile applications using **Flutter**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&width=520&lines=Flutter+Developer;Cross+Platform+App+Developer;Firebase+Developer;REST+API+Integration;Always+Learning+New+Things;Love+Clean+Architecture"/>
 
-💡 Passionate about clean architecture, Firebase integration and REST API.
+<br>
 
-🎯 My goal is to become a world-class Flutter Engineer.
+### 🚀 About Me
+
+💙 Passionate Flutter Developer
+
+📱 Cross Platform Mobile App Developer
+
+🔥 Firebase Enthusiast
+
+🌍 From Bangladesh
+
+📚 Learning Advanced Flutter Development
+
+🎯 Goal → Become a Professional Software Engineer
 
 </td>
 
 <td width="40%" align="center">
 
-<img
-src="https://i.ibb.co.com/CKN9Qbrc/f55299ec-e9f2-431f-ba08-3c1a7afe1e59-1.png"
+<img src="https://i.ibb.co.com/CKN9Qbrc/f55299ec-e9f2-431f-ba08-3c1a7afe1e59-1.png"
 width="260"
-/>
+style="border-radius:50%;" />
 
-</td>
+<br><br>
 
-</tr>
-</table>
-
----
-
-# 🚀 Career Objective
-
-> Passionate Flutter Developer with strong programming knowledge and a deep interest in creating modern, scalable, and high-performance mobile applications.
-
-> Seeking an opportunity to contribute to innovative projects, solve real-world problems, continuously improve my technical expertise, and grow as a professional software engineer while delivering exceptional user experiences.
-
----
-
-# 🌟 About Me
-
-- 💙 Flutter Developer
-- 📱 Mobile App Enthusiast
-- 🔥 Firebase Lover
-- 🌱 Currently Learning Clean Architecture
-- 💬 Ask me about Flutter & Dart
-- ⚡ Fun Fact: I love building beautiful UI.
-
----
-<!-- ====================== SKILLS ====================== -->
-
-<h1 align="center">
-   💻 Tech Stack & Skills
-</h1>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,github,postman,html,css,python,c&theme=dark"/>
-
-</p>
+<img src="https://img.shields.io/badge/Flutter-Developer-00C4FF?style=for-the-badge&logo=flutter"/>
 
 <br>
 
-<table align="center">
-
-<tr>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-### Flutter
-
-Cross Platform Apps
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=dart"/>
-
-### Dart
-
-Programming
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-### Firebase
-
-Backend
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
-
-### Android Studio
-
-IDE
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
 
 </td>
 
 </tr>
 
+</table>
+
+---
+
+# 🌌 Welcome To My GitHub Profile
+
+```text
+███████╗██╗     ██╗   ██╗████████╗████████╗███████╗██████╗
+██╔════╝██║     ██║   ██║╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗
+█████╗  ██║     ██║   ██║   ██║      ██║   █████╗  ██████╔╝
+██╔══╝  ██║     ██║   ██║   ██║      ██║   ██╔══╝  ██╔══██╗
+██║     ███████╗╚██████╔╝   ██║      ██║   ███████╗██║  ██║
+╚═╝     ╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
+
+---
+
+# ✨ Profile Summary
+
+```yaml
+Name      : Joydeb Kumar
+Role      : Flutter Developer
+Country   : Bangladesh 🇧🇩
+Language  : Dart, Flutter, Python, C
+Backend   : Firebase
+IDE       : Android Studio, VS Code
+Version   : Git & GitHub
+API       : REST API Integration
+```
+
+---
+
+<div align="center">
+
+## 💙 Flutter Lover
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=joydav432-web&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ❤️ Welcome to my profile ❤️
+
+> "Building beautiful mobile experiences with Flutter."
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--             ABOUT ME & CAREER OBJECTIVE               -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🚀 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Passionate+Flutter+Developer;Building+Beautiful+Mobile+Apps;Learning+Something+New+Every+Day"/>
+
+</div>
+
+---
+
+## 👨‍💻 Who Am I?
+
+I'm **Joydeb Kumar**, a passionate **Flutter Developer** from **Bangladesh 🇧🇩**.
+
+I enjoy transforming ideas into beautiful, responsive, and high-performance mobile applications using **Flutter** and **Dart**.
+
+I love writing clean, maintainable code and continuously improving my development skills by learning modern technologies and best practices.
+
+---
+
+# 🎯 Career Objective
+
+> I am a passionate Flutter Developer with a strong interest in building modern, scalable, and user-friendly mobile applications.
+
+> My goal is to contribute to innovative software projects, solve real-world problems through technology, and continuously enhance my technical and professional skills.
+
+> I aspire to work with experienced teams where I can learn, grow, and deliver high-quality Flutter applications that create meaningful user experiences.
+
+---
+
+# 🌟 Developer Highlights
+
+<table>
+
 <tr>
 
-<td align="center">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### 💙 What I Love
 
-### Python
-
-Programming
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-### C
-
-Programming
+- 📱 Flutter Development
+- 🎨 Beautiful UI Design
+- 🔥 Firebase
+- 🌐 REST API
+- 💻 Clean Code
+- 🚀 Mobile App Development
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=html"/>
+### 🎯 Current Focus
 
-### HTML5
-
-Frontend
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-### CSS3
-
-Styling
+- Advanced Flutter
+- Clean Architecture
+- State Management
+- Firebase Services
+- Performance Optimization
+- UI/UX Improvement
 
 </td>
 
 </tr>
 
-<tr>
+</table>
 
-<td align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=github"/>
+# 📚 Learning Journey
 
-### GitHub
+```text
+✔ Flutter Fundamentals
+✔ Dart Programming
+✔ Firebase Integration
+✔ REST API Integration
+✔ Git & GitHub
 
-Version Control
+🔄 Currently Learning
 
-</td>
+⬢ Clean Architecture
+⬢ Riverpod
+⬢ Hive Database
+⬢ CI/CD
+⬢ Flutter Animations
 
-<td align="center">
+🎯 Next Goals
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+⬡ Native Android
+⬡ Advanced Firebase
+⬡ Unit Testing
+⬡ Deployment
+```
 
-### VS Code
+---
 
-Editor
+# 💼 What I Can Do
 
-</td>
+✔ Build Beautiful Flutter UI
 
-<td align="center">
+✔ Responsive Mobile Applications
+
+✔ Firebase Authentication
+
+✔ Cloud Firestore Integration
+
+✔ REST API Integration
+
+✔ JSON Parsing
+
+✔ State Management
+
+✔ Git & GitHub Version Control
+
+✔ API Testing using Postman
+
+✔ Debugging Flutter Applications
+
+---
+
+# ⚡ Developer Mindset
+
+```dart
+class JoydebKumar {
+
+ String role = "Flutter Developer";
+
+ String passion = "Building Beautiful Apps";
+
+ String goal = "Become a Senior Flutter Engineer";
+
+ List<String> skills = [
+
+   "Flutter",
+
+   "Dart",
+
+   "Firebase",
+
+   "REST API",
+
+   "GitHub"
+
+ ];
+
+}
+```
+
+---
+
+<div align="center">
+
+## 🌟 "Dream Big • Code Smart • Never Stop Learning"
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                 PREMIUM TECH STACK                    -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 💻 Tech Stack & Skills
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Technologies+I+Work+With;Flutter+%7C+Dart+%7C+Firebase;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+## 🚀 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,python,c,html,css"/>
+
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
+
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github"/>
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
 
-### Postman
+</p>
 
-API Testing
+---
 
+## 🌐 Backend & APIs
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=json&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 Skill Level
+
+| Skill | Level |
+|------|------|
+| 💙 Flutter | ██████████ 90% |
+| 🎯 Dart | █████████ 85% |
+| 🔥 Firebase | ████████ 80% |
+| 🌐 REST API | ████████ 80% |
+| 🐍 Python | ███████ 70% |
+| 💻 C | ███████ 70% |
+| 🌍 HTML | █████████ 85% |
+| 🎨 CSS | ████████ 80% |
+| 🐙 GitHub | ████████ 80% |
+| 📮 Postman | ███████ 75% |
+
+---
+
+# 🧰 My Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+🎨 UI Design
+   │
+   ▼
+💻 Flutter Development
+   │
+   ▼
+🔥 Firebase Integration
+   │
+   ▼
+🌐 REST API Integration
+   │
+   ▼
+🧪 Testing (Postman)
+   │
+   ▼
+🐞 Debugging
+   │
+   ▼
+🚀 Deployment
+```
+
+---
+
+# ✨ Technologies I Enjoy
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter"/><br><b>Flutter</b>
 </td>
 
 <td align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="48"/>
-
-### REST API
-
-Integration
-
+<img src="https://skillicons.dev/icons?i=dart"/><br><b>Dart</b>
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase"/><br><b>Firebase</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github"/><br><b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode"/><br><b>VS Code</b>
+</td>
 </tr>
 
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python"/><br><b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c"/><br><b>C</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html"/><br><b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css"/><br><b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br><b>Postman</b>
+</td>
+</tr>
 </table>
 
 ---
 
-# ⚙️ What I Do
+<div align="center">
 
-✔️ Build Beautiful Flutter UI
+## 💙 Favorite Tech
 
-✔️ Firebase Authentication
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 
-✔️ REST API Integration
+### "Flutter + Firebase = ❤️"
 
-✔️ State Management
-
-✔️ Responsive Mobile Design
-
-✔️ Clean Code Architecture
-
-✔️ Git & GitHub Workflow
-
-✔️ Debugging & Performance Optimization
+</div>
 
 ---
 
-# 🚀 Currently Learning
+<div align="center">
 
-```text
-🔥 Clean Architecture
-🔥 Advanced Flutter
-🔥 Provider / Riverpod
-🔥 Local Database (Hive / SQLite)
-🔥 CI/CD
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=3"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Projects+That+I'm+Proud+Of;Flutter+%7C+Firebase+%7C+REST+API"/>
+
+</div>
 
 ---
-
-<h2 align="center">
-
-✨ "Code • Create • Learn • Repeat"
-
-</h2>
-
----
-<!-- ====================== PROJECTS ====================== -->
-
-<h1 align="center">🚀 Featured Projects</h1>
 
 <table>
 
@@ -266,24 +471,41 @@ Integration
 
 <td width="50%">
 
-## 📸 Photopia
+# 📸 Photopia
 
-A modern Flutter photography application with clean UI and Firebase integration.
+### 📱 Flutter Photography Application
+
+Beautiful photography app built using Flutter.
 
 ### ✨ Features
 
-- 📷 Beautiful UI
+- 📷 Clean Modern UI
 - 🔐 Firebase Authentication
-- ☁️ Cloud Firestore
+- ☁ Cloud Firestore
 - ❤️ Favorite Photos
 - 🌙 Dark Mode
 - 📱 Responsive Design
+- ⚡ Fast Performance
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+
+<br><br>
+
+<a href="YOUR_PHOTOPIA_REPO_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PHOTOPIA_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="95%"/>
 
 </td>
 
@@ -297,26 +519,43 @@ A modern Flutter photography application with clean UI and Firebase integration.
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="95%"/>
 
 </td>
 
 <td width="50%">
 
-## 🛒 Crafty-Bay
+# 🛒 Crafty-Bay
 
-An E-Commerce Flutter Application with REST API & Firebase.
+### Flutter E-Commerce Application
+
+Modern shopping application using Flutter & REST API.
 
 ### ✨ Features
 
-- 🛍 Product List
+- 🛍 Product Listing
 - ❤️ Wishlist
-- 🛒 Cart
+- 🛒 Shopping Cart
 - 💳 Checkout
+- 🔍 Search
 - 🔐 Authentication
-- 🌐 REST API Integration
+- 🌐 REST API
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+
+<br><br>
+
+<a href="YOUR_CRAFTYBAY_REPO_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_CRAFTYBAY_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -326,144 +565,80 @@ An E-Commerce Flutter Application with REST API & Firebase.
 
 ---
 
+# 🌟 Project Highlights
+
+| Project | Technology | Status |
+|---------|------------|--------|
+| 📸 Photopia | Flutter • Firebase | ✅ Completed |
+| 🛒 Crafty-Bay | Flutter • REST API | 🚀 Active |
+
+---
+
+<div align="center">
+
+## 💡 What I Focus On
+
+📱 Mobile Apps • 🎨 UI/UX • 🔥 Firebase • 🌐 REST API • ⚡ Performance
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=3"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
+
+<div align="center">
+
 # 📊 GitHub Analytics
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=GitHub+Statistics;Coding+Activity;Open+Source+Journey"/>
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joydav432-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=joydav432-web&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydav432-web&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydav432-web&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
 ---
 
+## 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=joydav432-web&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=joydav432-web&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joydav432-web&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joydav432-web&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joydav432-web&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/joydav432-web">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.icons8.com/color/96/facebook-new.png" height="50"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-
-💙 Thanks for visiting my GitHub Profile 💙
-
-</h2>
-
-<h3 align="center">
-
-⭐ If you like my work, don't forget to Star my repositories ⭐
-
-</h3>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
-</p>
-
-<!-- ====================== EXTRA SECTION ====================== -->
-
-<h1 align="center">⚡ Developer Quote</h1>
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<h1 align="center">🐍 Contribution Snake</h1>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **⚠️ Note:** Snake animation দেখাতে GitHub Actions সেটআপ করতে হবে। চাইলে পরে সেটাও করে দেব।
-
----
-
-<h1 align="center">☕ Support My Work</h1>
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<h1 align="center">💙 Fun Facts</h1>
-
-```text
-💙 Flutter is my favorite framework.
-🚀 I love building beautiful mobile applications.
-🔥 I enjoy solving real-world problems with code.
-📚 Every day I learn something new.
-🌍 Dream: Become a Senior Flutter Engineer.
-```
-
----
-
-<h1 align="center">🎯 2025 Goals</h1>
-
-- ✅ Master Flutter
-- ✅ Learn Clean Architecture
-- ✅ Publish Apps on Play Store
-- ✅ Build 20+ Flutter Projects
-- ✅ Contribute to Open Source
-- ✅ Get a Flutter Developer Job
-
----
-
-<h1 align="center">📈 Coding Activity</h1>
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -473,18 +648,206 @@ An E-Commerce Flutter Application with REST API & Firebase.
 
 ---
 
-<h1 align="center">🚀 Thanks For Visiting</h1>
+## 💻 Coding Summary
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+📱
+
+### Flutter
+
+Building Modern Apps
+
+</td>
+
+<td align="center">
+
+🔥
+
+### Firebase
+
+Backend Services
+
+</td>
+
+<td align="center">
+
+🌐
+
+### REST API
+
+Integration
+
+</td>
+
+<td align="center">
+
+💻
+
+### GitHub
+
+Version Control
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📌 Profile Information
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Happy+Coding!+💙;Let's+Build+Something+Amazing+Together!+🚀"/>
+<img src="https://komarev.com/ghpvc/?username=joydav432-web&label=PROFILE+VIEWS&style=for-the-badge&color=00C4FF"/>
+
+<img src="https://img.shields.io/github/followers/joydav432-web?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/joydav432-web?style=for-the-badge&logo=github"/>
 
 </p>
 
 ---
 
-<p align="center">
+## ⚡ Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Joydeb%20Kumar&fontSize=45&fontColor=ffffff&color=0:00F7FF,100:8A2BE2&section=footer"/>
+```text
+📱 Flutter Development
+🔥 Firebase
+🌐 REST API
+🎨 Beautiful UI
+🚀 Performance Optimization
+🧩 Clean Architecture
+```
 
-</p>
+---
+
+<div align="center">
+
+## 💙 "Every Commit Makes Me Better"
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,100:8A2BE2"/>
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--                 CONNECT WITH ME                       -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing!;Always+Open+to+Collaboration;Happy+Coding+💙"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/joydav432-web">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="YOUR_FACEBOOK">
+<img src="https://img.icons8.com/color/96/facebook-new.png" height="55"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.icons8.com/color/96/gmail-new.png" height="55"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.icons8.com/color/96/domain.png" height="55"/>
+</a>
+
+<a href="YOUR_WHATSAPP">
+<img src="https://img.icons8.com/color/96/whatsapp.png" height="55"/>
+</a>
+
+<a href="YOUR_TELEGRAM">
+<img src="https://img.icons8.com/color/96/telegram-app.png" height="55"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Contact Information
+
+| Platform | Link |
+|----------|------|
+| 🐙 GitHub | https://github.com/joydav432-web |
+| 💼 LinkedIn | YOUR_LINKEDIN |
+| 📘 Facebook | YOUR_FACEBOOK |
+| 📧 Email | YOUR_EMAIL |
+| 🌍 Portfolio | YOUR_PORTFOLIO |
+
+---
+
+<div align="center">
+
+# 💙 Thanks For Visiting
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Don't+forget+to+follow+me!;Happy+Coding!+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Support My Work
+
+<a href="#">
+<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FFD700?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/joydav432-web?tab=followers">
+<img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Developer Motto
+
+### *"Dream Big • Build Better • Never Stop Learning."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F5FF,25:00C3FF,50:007BFF,75:5B2EFF,100:8A2BE2&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!--                    END OF README                      -->
+<!-- ===================================================== -->
