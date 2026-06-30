@@ -497,10 +497,6 @@ Beautiful photography app built using Flutter.
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PHOTOPIA_DEMO">
-<img src="https://i.ibb.co.com/bMCzfrrm/39439ffe-a2a8-4d35-8947-cb1c2594806b.png"/>
-</a>
-
 </td>
 
 <td width="50%" align="center">
