@@ -507,14 +507,6 @@ Beautiful photography app built using Flutter.
 
 <table>
 
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="95%"/>
-
-</td>
-
 <td width="50%">
 
 # 🛒 Crafty-Bay
