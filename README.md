@@ -493,12 +493,12 @@ Beautiful photography app built using Flutter.
 
 <br><br>
 
-<a href="YOUR_PHOTOPIA_REPO_LINK">
+<a href="https://github.com/joydav432-web/photopia">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="YOUR_PHOTOPIA_DEMO">
-<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+<img src="https://i.ibb.co.com/bMCzfrrm/39439ffe-a2a8-4d35-8947-cb1c2594806b.png"/>
 </a>
 
 </td>
