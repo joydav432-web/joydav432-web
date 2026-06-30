@@ -466,10 +466,9 @@ class JoydebKumar {
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 # 📸 Photopia
 
@@ -494,21 +493,23 @@ Beautiful photography app built using Flutter.
 <br><br>
 
 <a href="https://github.com/joydav432-web/photopia">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-<img src="https://i.ibb.co.com/bMCzfrrm/39439ffe-a2a8-4d35-8947-cb1c2594806b.png"/>
 
+<td width="50%" align="center">
+  <img
+    src="https://i.ibb.co.com/bMCzfrrm/39439ffe-a2a8-4d35-8947-cb1c2594806b.png"
+    width="320"
+    alt="Photopia App"
+  />
 </td>
 
 </tr>
-
 </table>
 
 ---
-
-<table>
 
 <td width="50%">
 
