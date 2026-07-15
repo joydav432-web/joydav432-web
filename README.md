@@ -26,16 +26,6 @@
 
 <hr style="height:3px;border:none;background-color:#808080;">
 
-## 🚀 About Me
+# 🚀 About Me I am ** JOYDEB KUMER**, a dedicated **Backend Engineer & MERN Stack Developer** at **SparkTech Agency** with **2+ years of experience** building scalable REST APIs, real-time systems, and modern React frontends. My focus is on designing robust, secure, and high-performance server-side architectures using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
 
-I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of hands-on experience** building modern, responsive, and cross-platform mobile applications. I specialize in developing high-quality apps using **Flutter**, **Dart**, and **Firebase**, with a strong focus on clean architecture, scalable code, and exceptional user experiences.
-
-As an independent full-time developer, I have built multiple real-world mobile applications from the ground up, including authentication systems, REST API integration, state management, local databases, Firebase services, and responsive UI implementations.
-
-- 📱 **Experience:** 1+ Years of Full-Time Independent Flutter App Development
-- 🌱 **Currently Learning:** Clean Architecture, Advanced State Management, Firebase, System Design & Backend Integration
-- 🎯 **Goal:** Becoming a Senior Flutter Engineer and building impactful mobile applications used by millions
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB)
-- 📍 **Location:** Mohakhali, Dhaka, Bangladesh
-
-</div>
+- 🔭 **Current Role:** Jr. Backend Developer at SparkTech Agency (Jun 2025 – Present) - 🧪 **Learning Path:** Mastering Microservices, GraphQL, and Serverless Architecture - 🏗️ **Goal:** Building modular, distributed systems with real-world production impact - 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB) - 📍 **Location:** Mohakhali, Dhaka, Bangladesh ---
