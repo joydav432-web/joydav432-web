@@ -9,10 +9,6 @@
 
 <!-- Avatar -->
 
-<img src="YOUR_PROFILE_IMAGE_LINK_HERE" width="180" style="border-radius:50%;" />
-
-# 👋 JOY DEB KUMAR
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=00F5FF&lines=Flutter+Developer;UI%2FUX+Designer;Cross+Platform+App+Developer;Firebase+Developer;REST+API+Integration;Clean+Architecture+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" />
 
 <br>
