@@ -61,6 +61,28 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git,github,postman&theme=dark" />
 </p>
 ```
+🎓 Education
+
+<table>
+<tr>
+<td width="80">
+
+<img src="https://img.icons8.com/color/96/graduation-cap.png" width="55"/>
+
+</td>
+<td>
+
+### Bachelor of Science in Computer Science & Engineering (CSE)
+
+🏫 **Northern University Bangladesh (NUB)**  
+📍 Dhaka, Bangladesh  
+🟢 **Status:** Currently Enrolled
+
+</td>
+</tr>
+</table>
+```
+
 
 
 ```
