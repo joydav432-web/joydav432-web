@@ -1,32 +1,66 @@
-<!-- ============================== -->
-<!--      JOYDEB KUMAR PROFILE      -->
-<!-- ============================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00C3FF,50:007BFF,75:5B2EFF,100:8A2BE2&text=Joydeb%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer&descAlignY=58"/>
+<!-- ================= HERO BANNER ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00C3FF,50:007BFF,75:5B2EFF,100:8A2BE2&text=Welcome&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+
+<br>
+
+<!-- Avatar -->
+
+<img src="YOUR_PROFILE_IMAGE_LINK_HERE" width="180" style="border-radius:50%;" />
+
+# 👋 JOY DEB KUMAR
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=00F5FF&lines=Flutter+Developer;UI%2FUX+Designer;Cross+Platform+App+Developer;Firebase+Developer;REST+API+Integration;Clean+Architecture+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" />
+
+<br>
+
+### 🚀 Building Beautiful Mobile Experiences
+
+<br>
+
+<!-- ================= SOCIAL BUTTONS ================= -->
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_EMAIL_LINK">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_LINK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
 
-<table>
+```
 
-<tr>
+### 📌 Replace these later:
 
-<td width="60%">
+* `YOUR_PROFILE_IMAGE_LINK_HERE`
+* `YOUR_GITHUB_LINK`
+* `YOUR_LINKEDIN_LINK`
+* `YOUR_PORTFOLIO_LINK`
+* `YOUR_EMAIL_LINK`
+* `YOUR_FACEBOOK_LINK`
 
-# 👋 Hi, This is **Joydeb Kumar**
 
-### 💙 Flutter Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&width=520&lines=Flutter+Developer;Cross+Platform+App+Developer;Firebase+Developer;REST+API+Integration;Always+Learning+New+Things;Love+Clean+Architecture"/>
 
-<br>
-
-### 🚀 About Me
-
-💙 Passionate Flutter Developer
 
 📱 Cross Platform Mobile App Developer
 
