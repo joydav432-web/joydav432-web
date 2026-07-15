@@ -41,12 +41,10 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 
 
 ---
-="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 ```
-```md
-## 💻 Core Skills
+💻 Core Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,c,cpp,html,css&theme=dark" />
