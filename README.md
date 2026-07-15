@@ -37,5 +37,64 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB)
 - 📍 **Location:** Mohakhali, Dhaka, Bangladesh
 
+
+
+
 ---
+## 🛠️ Tech Stack & Skills
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🎨 UI / UX
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,java" />
+</p>
+
+### 📦 Flutter Expertise
+
+- ✅ Flutter & Dart
+- ✅ Responsive UI Design
+- ✅ REST API Integration
+- ✅ Firebase Authentication
+- ✅ Cloud Firestore
+- ✅ Firebase Storage
+- ✅ Firebase Cloud Messaging (FCM)
+- ✅ State Management (Provider, GetX, Riverpod)
+- ✅ Local Database (Hive, SharedPreferences, SQLite)
+- ✅ Clean Architecture
+- ✅ MVVM Architecture
+- ✅ Dependency Injection
+- ✅ JSON Serialization
+- ✅ Google Maps Integration
+- ✅ Payment Gateway Integration
+- ✅ Push Notifications
+- ✅ App Deployment (Google Play Store)
+- ✅ Git & GitHub
+- ✅ Performance Optimization
+- ✅ Animations & Custom Widgets
+```
+
 ```
