@@ -61,9 +61,6 @@ style="border-radius:50%;" />
 </table>
 
 ---
-
-# 🌌 Welcome To My GitHub Profile
-
 # ✨ Profile Summary
 
 ```yaml
