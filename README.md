@@ -43,7 +43,6 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 ---
 
 </p>
-```
 💻 Core Skills
 
 <p align="left">
@@ -56,7 +55,7 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 
 ---
 
-## 🛠️ Tools
+🛠️ Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git,github,postman&theme=dark" />
