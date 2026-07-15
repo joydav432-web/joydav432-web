@@ -23,4 +23,19 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
+<hr style="height:3px;border:none;background-color:#808080;">
+
+## 🚀 About Me
+
+I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of hands-on experience** building modern, responsive, and cross-platform mobile applications. I specialize in developing high-quality apps using **Flutter**, **Dart**, and **Firebase**, with a strong focus on clean architecture, scalable code, and exceptional user experiences.
+
+As an independent full-time developer, I have built multiple real-world mobile applications from the ground up, including authentication systems, REST API integration, state management, local databases, Firebase services, and responsive UI implementations.
+
+- 📱 **Experience:** 1+ Years of Full-Time Independent Flutter App Development
+- 🌱 **Currently Learning:** Clean Architecture, Advanced State Management, Firebase, System Design & Backend Integration
+- 🎯 **Goal:** Becoming a Senior Flutter Engineer and building impactful mobile applications used by millions
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB)
+- 📍 **Location:** Mohakhali, Dhaka, Bangladesh
+
 </div>
