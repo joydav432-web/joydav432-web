@@ -81,36 +81,29 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 </tr>
 </table>
 ```
-📊 GitHub Statistics
+ 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joydav432-web&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydav432-web&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=joydav432-web&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
-## 📈 Contribution Graph
+---
+
+📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joydav432-web&theme=tokyo-night&hide_border=true&radius=15" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+ 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joydav432-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
-```
-
-
-
-
 ```
