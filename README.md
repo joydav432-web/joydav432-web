@@ -41,60 +41,31 @@ I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of han
 
 
 ---
-## 🛠️ Tech Stack & Skills
+## 💻 Core Skills
 
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🎨 UI / UX
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+--
+
+ 🛠️ Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,java" />
-</p>
-
-### 📦 Flutter Expertise
-
-- ✅ Flutter & Dart
-- ✅ Responsive UI Design
-- ✅ REST API Integration
-- ✅ Firebase Authentication
-- ✅ Cloud Firestore
-- ✅ Firebase Storage
-- ✅ Firebase Cloud Messaging (FCM)
-- ✅ State Management (Provider, GetX, Riverpod)
-- ✅ Local Database (Hive, SharedPreferences, SQLite)
-- ✅ Clean Architecture
-- ✅ MVVM Architecture
-- ✅ Dependency Injection
-- ✅ JSON Serialization
-- ✅ Google Maps Integration
-- ✅ Payment Gateway Integration
-- ✅ Push Notifications
-- ✅ App Deployment (Google Play Store)
-- ✅ Git & GitHub
-- ✅ Performance Optimization
-- ✅ Animations & Custom Widgets
 ```
 
 ```
