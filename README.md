@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00C3FF,50:007BFF,75:5B2EFF,100:8A2BE2&text=JOYDEB%20KUMAR&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer&descAlignY=58"/>
@@ -19,13 +18,24 @@
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_EMAIL_LINK">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</div>
 
-<hr style="height:3px;border:none;background-color:#808080;">
+---
 
-# 🚀 About Me I am ** JOYDEB KUMER**, a dedicated **Backend Engineer & MERN Stack Developer** at **SparkTech Agency** with **2+ years of experience** building scalable REST APIs, real-time systems, and modern React frontends. My focus is on designing robust, secure, and high-performance server-side architectures using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
+# 🚀 About Me
 
-- 🔭 **Current Role:** Jr. Backend Developer at SparkTech Agency (Jun 2025 – Present) - 🧪 **Learning Path:** Mastering Microservices, GraphQL, and Serverless Architecture - 🏗️ **Goal:** Building modular, distributed systems with real-world production impact - 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB) - 📍 **Location:** Mohakhali, Dhaka, Bangladesh ---
+I am **Joydeb Kumar**, a passionate **Flutter Developer** with **1+ years of hands-on experience** building modern, responsive, and cross-platform mobile applications. I specialize in developing high-quality apps using **Flutter**, **Dart**, **Firebase**, **REST APIs**, and modern state management solutions, with a strong focus on clean architecture, scalable code, and exceptional user experiences.
+
+- 🔭 **Experience:** 1+ Years of Full-Time Independent Flutter App Development
+- 📱 **Specialization:** Flutter, Dart, Firebase, REST API Integration & Responsive UI
+- 🌱 **Currently Learning:** Clean Architecture, Advanced State Management, Backend Integration & System Design
+- 🎯 **Goal:** Becoming a Senior Flutter Engineer and building impactful mobile applications used by millions
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering — Northern University Bangladesh (NUB)
+- 📍 **Location:** Mohakhali, Dhaka, Bangladesh
+
+---
+```
